@@ -41,5 +41,5 @@
 
    实验结果如下：
 
-   <img src="https://raw.githubusercontent.com/wangwangweiwei/nlpfinalassignment/main/img/nlp-4-2.png" alt="nlp-4-3" style="zoom:75%; float:left" />
+   <img src="https://raw.githubusercontent.com/wangwangweiwei/nlpfinalassignment/main/img/nlp-4-3.png" alt="nlp-4-3" style="zoom:75%; float:left" />
 
