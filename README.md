@@ -15,8 +15,8 @@
 
    实验结果如下：
 
-   <img src="https://github.com/wangwangweiwei/nlpfinalassignment/tree/main/img/nlp-4-1.png" alt="nlp-4-1" style="zoom:75%; float:left" />
-
+   <img src="https://raw.githubusercontent.com/wangwangweiwei/nlpfinalassignment/main/img/nlp-4-1.png" alt="nlp-4-1" style="zoom:75%; float:left" />
+   
 2. 识别一个句子中的实体。
    具体要求和数据集请见：
    https://tianchi.aliyun.com/dataset/dataDetail?dataId=108771
@@ -30,7 +30,7 @@
 
    实验结果如下：
 
-   <img src="https://github.com/wangwangweiwei/nlpfinalassignment/tree/main/img/nlp-4-2.png" alt="nlp-4-2" style="zoom:75%; float:left" />
+   <img src="https://raw.githubusercontent.com/wangwangweiwei/nlpfinalassignment/main/img/nlp-4-2.png" alt="nlp-4-2" style="zoom:75%; float:left" />
 
 3. 文本语料相似度计算
    具体任务要求参考：https://zhuanlan.zhihu.com/p/51675979
@@ -41,5 +41,5 @@
 
    实验结果如下：
 
-   <img src="https://github.com/wangwangweiwei/nlpfinalassignment/tree/main/img/nlp-4-3.png" alt="nlp-4-3" style="zoom:75%; float:left" />
+   <img src="https://raw.githubusercontent.com/wangwangweiwei/nlpfinalassignment/main/img/nlp-4-2.png" alt="nlp-4-3" style="zoom:75%; float:left" />
 
